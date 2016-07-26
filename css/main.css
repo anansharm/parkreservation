@@ -1,0 +1,32 @@
+.maincontainer{
+	margin:auto;
+}
+.mainbox {
+    margin: 3% 15%;
+    border-style: solid;
+    border-width: 2px;
+    min-height: 500px;
+    width: 69%;
+}
+
+input{
+	margin: 2%;
+	border-style: solid;
+    border-width: 2px;
+  }  
+.topbox{
+	border-bottom-style: solid; 
+    border-bottom-width: 2px; 
+}
+.displaydata{
+	display: inline-block;
+	border-style: solid;
+	border-width: 2px;
+	margin: 2%;
+	width: 20%;
+  min-height: 167px;  
+  vertical-align: top;
+}
+p, h3{
+	padding: 0 0 0 5px;
+}
